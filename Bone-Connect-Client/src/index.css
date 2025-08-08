@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* Global CSS */
+html,
+body {
+    height: 100%;
+    font-size: 10px;
+}

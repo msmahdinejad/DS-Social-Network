@@ -1,0 +1,6 @@
+@BoneConnect_HostAddress = http://localhost:5001
+
+GET {{BoneConnect_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

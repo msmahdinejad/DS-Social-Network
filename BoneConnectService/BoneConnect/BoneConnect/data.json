@@ -1,0 +1,304 @@
+﻿{
+  "Users": [
+    {
+      "Username": "user1",
+      "FirstName": "John",
+      "LastName": "Doe",
+      "Email": "john.doe@example.com",
+      "ProfilePic": "https://s6.uupload.ir/files/1727687390_5748802_2oxx.jpg",
+      "PasswordHash": "hashedpassword1",
+      "Posts": [
+        { "Id": "post1", "Thumbnail": "https://s6.uupload.ir/files/ax-porofail-20_1tzi.jpg" },
+        { "Id": "post2", "Thumbnail": "https://s6.uupload.ir/files/ax-porofail-20_1tzi.jpg" }
+      ],
+      "Connections": [
+        { "Username": "user2", "ProfilePic": "https://s6.uupload.ir/files/nody-عکس-پروفایل-گربه-فانتزی-1725591007_0txe.jpg" },
+        { "Username": "user3", "ProfilePic": "https://s6.uupload.ir/files/1727687390_5748802_2oxx.jpg" }
+      ]
+    },
+    {
+      "Username": "user2",
+      "FirstName": "Jane",
+      "LastName": "Smith",
+      "Email": "jane.smith@example.com",
+      "ProfilePic": "https://s6.uupload.ir/files/nody-عکس-پروفایل-گربه-فانتزی-1725591007_0txe.jpg",
+      "PasswordHash": "hashedpassword2",
+      "Posts": [
+        { "Id": "post3", "Thumbnail": "https://s6.uupload.ir/files/ax-porofail-20_1tzi.jpg" },
+        { "Id": "post4", "Thumbnail": "https://s6.uupload.ir/files/ax-porofail-20_1tzi.jpg" }
+      ],
+      "Connections": [
+        { "Username": "user1", "ProfilePic": "https://s6.uupload.ir/files/1727687390_5748802_2oxx.jpg" },
+        { "Username": "user4", "ProfilePic": "https://s6.uupload.ir/files/nody-عکس-پروفایل-گربه-فانتزی-1725591007_0txe.jpg" }
+      ]
+    },
+    {
+      "Username": "user3",
+      "FirstName": "Alice",
+      "LastName": "Johnson",
+      "Email": "alice.johnson@example.com",
+      "ProfilePic": "https://s6.uupload.ir/files/1727687390_5748802_2oxx.jpg",
+      "PasswordHash": "hashedpassword3",
+      "Posts": [
+        { "Id": "post5", "Thumbnail": "https://s6.uupload.ir/files/ax-porofail-20_1tzi.jpg" },
+        { "Id": "post6", "Thumbnail": "https://s6.uupload.ir/files/ax-porofail-20_1tzi.jpg" }
+      ],
+      "Connections": [
+        { "Username": "user1", "ProfilePic": "https://s6.uupload.ir/files/1727687390_5748802_2oxx.jpg" },
+        { "Username": "user5", "ProfilePic": "https://s6.uupload.ir/files/nody-عکس-پروفایل-گربه-فانتزی-1725591007_0txe.jpg" }
+      ]
+    },
+    {
+      "Username": "user4",
+      "FirstName": "Bob",
+      "LastName": "Brown",
+      "Email": "bob.brown@example.com",
+      "ProfilePic": "https://s6.uupload.ir/files/nody-عکس-پروفایل-گربه-فانتزی-1725591007_0txe.jpg",
+      "PasswordHash": "hashedpassword4",
+      "Posts": [
+        { "Id": "post7", "Thumbnail": "https://s6.uupload.ir/files/ax-porofail-20_1tzi.jpg" },
+        { "Id": "post8", "Thumbnail": "https://s6.uupload.ir/files/ax-porofail-20_1tzi.jpg" }
+      ],
+      "Connections": [
+        { "Username": "user2", "ProfilePic": "https://s6.uupload.ir/files/nody-عکس-پروفایل-گربه-فانتزی-1725591007_0txe.jpg" },
+        { "Username": "user6", "ProfilePic": "https://s6.uupload.ir/files/1727687390_5748802_2oxx.jpg" }
+      ]
+    },
+    {
+      "Username": "user5",
+      "FirstName": "Charlie",
+      "LastName": "Davis",
+      "Email": "charlie.davis@example.com",
+      "ProfilePic": "https://s6.uupload.ir/files/1727687390_5748802_2oxx.jpg",
+      "PasswordHash": "hashedpassword5",
+      "Posts": [
+        { "Id": "post9", "Thumbnail": "https://s6.uupload.ir/files/ax-porofail-20_1tzi.jpg" },
+        { "Id": "post10", "Thumbnail": "https://s6.uupload.ir/files/ax-porofail-20_1tzi.jpg" }
+      ],
+      "Connections": [
+        { "Username": "user3", "ProfilePic": "https://s6.uupload.ir/files/1727687390_5748802_2oxx.jpg" },
+        { "Username": "user7", "ProfilePic": "https://s6.uupload.ir/files/nody-عکس-پروفایل-گربه-فانتزی-1725591007_0txe.jpg" }
+      ]
+    },
+    {
+      "Username": "user6",
+      "FirstName": "Eva",
+      "LastName": "Green",
+      "Email": "eva.green@example.com",
+      "ProfilePic": "https://s6.uupload.ir/files/nody-عکس-پروفایل-گربه-فانتزی-1725591007_0txe.jpg",
+      "PasswordHash": "hashedpassword6",
+      "Posts": [
+        { "Id": "post11", "Thumbnail": "https://s6.uupload.ir/files/ax-porofail-20_1tzi.jpg" },
+        { "Id": "post12", "Thumbnail": "https://s6.uupload.ir/files/ax-porofail-20_1tzi.jpg" }
+      ],
+      "Connections": [
+        { "Username": "user4", "ProfilePic": "https://s6.uupload.ir/files/nody-عکس-پروفایل-گربه-فانتزی-1725591007_0txe.jpg" },
+        { "Username": "user8", "ProfilePic": "https://s6.uupload.ir/files/1727687390_5748802_2oxx.jpg" }
+      ]
+    },
+    {
+      "Username": "user7",
+      "FirstName": "Frank",
+      "LastName": "Wilson",
+      "Email": "frank.wilson@example.com",
+      "ProfilePic": "https://s6.uupload.ir/files/1727687390_5748802_2oxx.jpg",
+      "PasswordHash": "hashedpassword7",
+      "Posts": [
+        { "Id": "post13", "Thumbnail": "https://s6.uupload.ir/files/ax-porofail-20_1tzi.jpg" },
+        { "Id": "post14", "Thumbnail": "https://s6.uupload.ir/files/ax-porofail-20_1tzi.jpg" }
+      ],
+      "Connections": [
+        { "Username": "user5", "ProfilePic": "https://s6.uupload.ir/files/1727687390_5748802_2oxx.jpg" },
+        { "Username": "user9", "ProfilePic": "https://s6.uupload.ir/files/nody-عکس-پروفایل-گربه-فانتزی-1725591007_0txe.jpg" }
+      ]
+    },
+    {
+      "Username": "user8",
+      "FirstName": "Grace",
+      "LastName": "Taylor",
+      "Email": "grace.taylor@example.com",
+      "ProfilePic": "https://s6.uupload.ir/files/nody-عکس-پروفایل-گربه-فانتزی-1725591007_0txe.jpg",
+      "PasswordHash": "hashedpassword8",
+      "Posts": [
+        { "Id": "post15", "Thumbnail": "https://s6.uupload.ir/files/ax-porofail-20_1tzi.jpg" },
+        { "Id": "post16", "Thumbnail": "https://s6.uupload.ir/files/ax-porofail-20_1tzi.jpg" }
+      ],
+      "Connections": [
+        { "Username": "user6", "ProfilePic": "https://s6.uupload.ir/files/nody-عکس-پروفایل-گربه-فانتزی-1725591007_0txe.jpg" },
+        { "Username": "user10", "ProfilePic": "https://s6.uupload.ir/files/1727687390_5748802_2oxx.jpg" }
+      ]
+    },
+    {
+      "Username": "user9",
+      "FirstName": "Henry",
+      "LastName": "Martinez",
+      "Email": "henry.martinez@example.com",
+      "ProfilePic": "https://s6.uupload.ir/files/1727687390_5748802_2oxx.jpg",
+      "PasswordHash": "hashedpassword9",
+      "Posts": [
+        { "Id": "post17", "Thumbnail": "https://s6.uupload.ir/files/ax-porofail-20_1tzi.jpg" },
+        { "Id": "post18", "Thumbnail": "https://s6.uupload.ir/files/ax-porofail-20_1tzi.jpg" }
+      ],
+      "Connections": [
+        { "Username": "user7", "ProfilePic": "https://s6.uupload.ir/files/1727687390_5748802_2oxx.jpg" }
+      ]
+    },
+    {
+      "Username": "user10",
+      "FirstName": "Ivy",
+      "LastName": "Anderson",
+      "Email": "ivy.anderson@example.com",
+      "ProfilePic": "https://s6.uupload.ir/files/nody-عکس-پروفایل-گربه-فانتزی-1725591007_0txe.jpg",
+      "PasswordHash": "hashedpassword10",
+      "Posts": [
+        { "Id": "post19", "Thumbnail": "https://s6.uupload.ir/files/ax-porofail-20_1tzi.jpg" },
+        { "Id": "post20", "Thumbnail": "https://s6.uupload.ir/files/ax-porofail-20_1tzi.jpg" }
+      ],
+      "Connections": [
+        { "Username": "user8", "ProfilePic": "https://s6.uupload.ir/files/nody-عکس-پروفایل-گربه-فانتزی-1725591007_0txe.jpg" }
+      ]
+    }
+  ],
+  "Posts": [
+    {
+      "Id": "post1",
+      "Author": { "Username": "user1", "ProfilePic": "https://s6.uupload.ir/files/1727687390_5748802_2oxx.jpg" },
+      "Caption": "This is my first post!",
+      "Pictures": ["https://s6.uupload.ir/files/ax-porofail-20_1tzi.jpg"]
+    },
+    {
+      "Id": "post2",
+      "Author": { "Username": "user1", "ProfilePic": "https://s6.uupload.ir/files/1727687390_5748802_2oxx.jpg" },
+      "Caption": "Enjoying the weekend!",
+      "Pictures": ["https://s6.uupload.ir/files/ax-porofail-20_1tzi.jpg"]
+    },
+    {
+      "Id": "post3",
+      "Author": { "Username": "user2", "ProfilePic": "https://s6.uupload.ir/files/nody-عکس-پروفایل-گربه-فانتزی-1725591007_0txe.jpg" },
+      "Caption": "Hello world!",
+      "Pictures": ["https://s6.uupload.ir/files/ax-porofail-20_1tzi.jpg"]
+    },
+    {
+      "Id": "post4",
+      "Author": { "Username": "user2", "ProfilePic": "https://s6.uupload.ir/files/nody-عکس-پروفایل-گربه-فانتزی-1725591007_0txe.jpg" },
+      "Caption": "Feeling great today!",
+      "Pictures": ["https://s6.uupload.ir/files/ax-porofail-20_1tzi.jpg"]
+    },
+    {
+      "Id": "post5",
+      "Author": { "Username": "user3", "ProfilePic": "https://s6.uupload.ir/files/1727687390_5748802_2oxx.jpg" },
+      "Caption": "New adventure begins!",
+      "Pictures": ["https://s6.uupload.ir/files/ax-porofail-20_1tzi.jpg"]
+    },
+    {
+      "Id": "post6",
+      "Author": { "Username": "user3", "ProfilePic": "https://s6.uupload.ir/files/1727687390_5748802_2oxx.jpg" },
+      "Caption": "Sunset vibes!",
+      "Pictures": ["https://s6.uupload.ir/files/ax-porofail-20_1tzi.jpg"]
+    },
+    {
+      "Id": "post7",
+      "Author": { "Username": "user4", "ProfilePic": "https://s6.uupload.ir/files/nody-عکس-پروفایل-گربه-فانتزی-1725591007_0txe.jpg" },
+      "Caption": "Working hard!",
+      "Pictures": ["https://s6.uupload.ir/files/ax-porofail-20_1tzi.jpg"]
+    },
+    {
+      "Id": "post8",
+      "Author": { "Username": "user4", "ProfilePic": "https://s6.uupload.ir/files/nody-عکس-پروفایل-گربه-فانتزی-1725591007_0txe.jpg" },
+      "Caption": "Weekend plans!",
+      "Pictures": ["https://s6.uupload.ir/files/ax-porofail-20_1tzi.jpg"]
+    },
+    {
+      "Id": "post9",
+      "Author": { "Username": "user5", "ProfilePic": "https://s6.uupload.ir/files/1727687390_5748802_2oxx.jpg" },
+      "Caption": "Exploring new places!",
+      "Pictures": ["https://s6.uupload.ir/files/ax-porofail-20_1tzi.jpg"]
+    },
+    {
+      "Id": "post10",
+      "Author": { "Username": "user5", "ProfilePic": "https://s6.uupload.ir/files/1727687390_5748802_2oxx.jpg" },
+      "Caption": "Nature is beautiful!",
+      "Pictures": ["https://s6.uupload.ir/files/ax-porofail-20_1tzi.jpg"]
+    },
+    {
+      "Id": "post11",
+      "Author": { "Username": "user6", "ProfilePic": "https://s6.uupload.ir/files/nody-عکس-پروفایل-گربه-فانتزی-1725591007_0txe.jpg" },
+      "Caption": "Morning coffee!",
+      "Pictures": ["https://s6.uupload.ir/files/ax-porofail-20_1tzi.jpg"]
+    },
+    {
+      "Id": "post12",
+      "Author": { "Username": "user6", "ProfilePic": "https://s6.uupload.ir/files/nody-عکس-پروفایل-گربه-فانتزی-1725591007_0txe.jpg" },
+      "Caption": "New haircut!",
+      "Pictures": ["https://s6.uupload.ir/files/ax-porofail-20_1tzi.jpg"]
+    },
+    {
+      "Id": "post13",
+      "Author": { "Username": "user7", "ProfilePic": "https://s6.uupload.ir/files/1727687390_5748802_2oxx.jpg" },
+      "Caption": "Weekend vibes!",
+      "Pictures": ["https://s6.uupload.ir/files/ax-porofail-20_1tzi.jpg"]
+    },
+    {
+      "Id": "post14",
+      "Author": { "Username": "user7", "ProfilePic": "https://s6.uupload.ir/files/1727687390_5748802_2oxx.jpg" },
+      "Caption": "Feeling productive!",
+      "Pictures": ["https://s6.uupload.ir/files/ax-porofail-20_1tzi.jpg"]
+    },
+    {
+      "Id": "post15",
+      "Author": { "Username": "user8", "ProfilePic": "https://s6.uupload.ir/files/nody-عکس-پروفایل-گربه-فانتزی-1725591007_0txe.jpg" },
+      "Caption": "New book!",
+      "Pictures": ["https://s6.uupload.ir/files/ax-porofail-20_1tzi.jpg"]
+    },
+    {
+      "Id": "post16",
+      "Author": { "Username": "user8", "ProfilePic": "https://s6.uupload.ir/files/nody-عکس-پروفایل-گربه-فانتزی-1725591007_0txe.jpg" },
+      "Caption": "Learning new things!",
+      "Pictures": ["https://s6.uupload.ir/files/ax-porofail-20_1tzi.jpg"]
+    },
+    {
+      "Id": "post17",
+      "Author": { "Username": "user9", "ProfilePic": "https://s6.uupload.ir/files/1727687390_5748802_2oxx.jpg" },
+      "Caption": "Traveling soon!",
+      "Pictures": ["https://s6.uupload.ir/files/ax-porofail-20_1tzi.jpg"]
+    },
+    {
+      "Id": "post18",
+      "Author": { "Username": "user9", "ProfilePic": "https://s6.uupload.ir/files/1727687390_5748802_2oxx.jpg" },
+      "Caption": "Excited for the trip!",
+      "Pictures": ["https://s6.uupload.ir/files/ax-porofail-20_1tzi.jpg"]
+    },
+    {
+      "Id": "post19",
+      "Author": { "Username": "user10", "ProfilePic": "https://s6.uupload.ir/files/nody-عکس-پروفایل-گربه-فانتزی-1725591007_0txe.jpg" },
+      "Caption": "New project!",
+      "Pictures": ["https://s6.uupload.ir/files/ax-porofail-20_1tzi.jpg"]
+    },
+    {
+      "Id": "post20",
+      "Author": { "Username": "user10", "ProfilePic": "https://s6.uupload.ir/files/nody-عکس-پروفایل-گربه-فانتزی-1725591007_0txe.jpg" },
+      "Caption": "Feeling inspired!",
+      "Pictures": ["https://s6.uupload.ir/files/ax-porofail-20_1tzi.jpg"]
+    }
+  ],
+  "Connections": [
+    { "Source": "user1", "Destination": "user2" },
+    { "Source": "user1", "Destination": "user3" },
+    { "Source": "user2", "Destination": "user1" },
+    { "Source": "user2", "Destination": "user4" },
+    { "Source": "user3", "Destination": "user1" },
+    { "Source": "user3", "Destination": "user5" },
+    { "Source": "user4", "Destination": "user2" },
+    { "Source": "user4", "Destination": "user6" },
+    { "Source": "user5", "Destination": "user3" },
+    { "Source": "user5", "Destination": "user7" },
+    { "Source": "user6", "Destination": "user4" },
+    { "Source": "user6", "Destination": "user8" },
+    { "Source": "user7", "Destination": "user5" },
+    { "Source": "user7", "Destination": "user9" },
+    { "Source": "user8", "Destination": "user6" },
+    { "Source": "user8", "Destination": "user10" },
+    { "Source": "user9", "Destination": "user7" },
+    { "Source": "user10", "Destination": "user8" }
+  ]
+}
